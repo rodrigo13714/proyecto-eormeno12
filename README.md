@@ -3,7 +3,7 @@
 
 ## Integrantes
 * Ernesto Paolo Ormeño Gonzales
-* *Nombres y Apellidos*
+* *Rodrigo Gabriel Amaya Mory*
 * *Nombres y Apellidos*
 * *Nombres y Apellidos*
 
