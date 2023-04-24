@@ -2,8 +2,8 @@
 # Programación III: Proyecto Final
 
 ## Integrantes
-* Ernesto Paolo Ormeño Gonzales
-* *Nombres y Apellidos*
+* *Ernesto Paolo Ormeño Gonzales*
+* *Rodrigo Gabriel Amaya Mory*
 * *Nombres y Apellidos*
 * *Nombres y Apellidos*
 
