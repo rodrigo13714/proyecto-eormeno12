@@ -2,7 +2,7 @@
 # Programación III: Proyecto Final
 
 ## Integrantes
-* *Nombres y Apellidos*
+* Ernesto Paolo Ormeño Gonzales
 * *Nombres y Apellidos*
 * *Nombres y Apellidos*
 * *Nombres y Apellidos*
